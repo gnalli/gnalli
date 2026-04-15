@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**gnalli/gnalli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🐒 Code. Break. Fix. Repeat.
 
-Here are some ideas to get you started:
+* AI Coding enjoyer
+* Golang / React / Next.js
+* Docker / K8s / Terraform
+* MongoDB / Redis / Kafka / MySQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+INTP
+
+> It works. Don't touch it.
+> (Unless I wrote it yesterday)
+
+---
